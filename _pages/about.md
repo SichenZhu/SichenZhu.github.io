@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am Sichen Zhu, a 2nd year Machine Learning PhD at Georgia Tech from Department of Biomedical Engineering. 
+Hi, I am Sichen Zhu, a 3rd year Machine Learning PhD at Georgia Tech from Department of Biomedical Engineering. 
 
 I'm generally interested in **computational biology and deep learning**. Specifically, I work on how deep learning can bring new solutions to tasks in single cell analysis in an efficient and effective manner. 
 
